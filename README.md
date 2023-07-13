@@ -28,7 +28,7 @@ table size, and checking for sequence existence. It utilizes C++ standard
 library containers and methods while encapsulating non-interface functions and
 global variables.
 
-3. **Money Bag**: Create a class called Moneybag that represents money pouches
+3. **Money Bag**: Create a class called `Moneybag` that represents money pouches
 in the Frankish state. The class should support operations such as creating a
 pouch with a specified number of coins, performing arithmetic operations on
 pouches, retrieving coin counts, and handling exceptions for arithmetic
@@ -43,7 +43,7 @@ specialization and constexpr calculations.
 
 5. **KV FIFO**: Implement a container pattern that behaves like a FIFO queue,
 where each element is associated with a key. The container should provide strong
-exception safety guarantees and implement copy-on-write semantics. The kvfifo
+exception safety guarantees and implement copy-on-write semantics. The `kvfifo`
 class template should support operations such as pushing elements, popping
 elements, moving elements to the back, accessing front and back elements,
 retrieving elements by key, checking the size and emptiness, counting elements
