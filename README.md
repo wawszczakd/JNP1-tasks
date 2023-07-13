@@ -6,15 +6,16 @@ the course "Languages and Programming Tools 1".
 ## Overview
 
 JNP1 stands for "Języki i Narzędzia Programowania 1" in Polish, which translates
-to "Languages and Programming Tools 1". This repository includes solutions to
-the tasks from this course. All the tasks are related to C++. Each task was
-completed by different teams, with up to three members per team. There are 7
-tasks in total, but I only solved the first 6, which was enough to complete the
-course.
+to "Languages and Programming Tools 1". The number "1" indicates that it is the
+first course in the series. There are also courses JNP2 and JNP3, but they are
+not directly connected to this one. This repository includes solutions to the
+tasks from JNP1. All the tasks are related to C++. Each task was completed by
+different teams, with up to three members per team. There are 7 tasks in total,
+but I only solved the first 6, which was enough to complete the course.
 
 ## Task Descriptions
 
-Here is a list of short 
+Here is a list of short task descriptions:
 
 1. **Top 7**: Practice using the C++ standard library to create a program that
 manages a music chart, allowing voting on songs within a specified range and
